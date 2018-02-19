@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroiudOrientation</string>
+    <string name="text_view">Please Click the  Button</string>
+    <string name="button">CLICKME</string>
+    <string name="button1">STORED DATA</string>
+    <string name="text_view1">Your Information Will be Stored here !</string>
+</resources>
