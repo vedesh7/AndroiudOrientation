@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
             tv_Message.setText("Nuumber of times Button clicked" + String.valueOf(NumberOfClicks)+"times");
         }
         else{
-            Toast.makeText(this, "Button is not clicked", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please click the button!", Toast.LENGTH_SHORT).show();
         }
 
 
